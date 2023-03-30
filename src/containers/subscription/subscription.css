@@ -6,6 +6,7 @@
 #home{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 .gpt3__header-content_sub {
