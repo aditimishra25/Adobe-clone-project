@@ -44,8 +44,6 @@
 }
 
 .gpt3__header-content__input_sub input {
-    flex: 2;
-    width: 100%;
     min-height: 30px;
     font-family: var(--font-family);
     font-weight: 400;
@@ -61,8 +59,6 @@
 }
 
 .gpt3__header-content__input_sub button {
-    flex: 0.8;
-    width: 100%;
     font-family: var(--font-family);
     font-weight: 400;
     font-size: 14px;
